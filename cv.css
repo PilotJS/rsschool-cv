@@ -37,7 +37,7 @@
 }
 .block4 {
     position: absolute;
-    top: 400px;
+    top: 420px;
     left: 500px;
 }
 .block5 {
@@ -50,5 +50,11 @@
     top: 650px;
     left: 500px;
 }
-
-
+.url {
+    color: white;
+}
+.footer {
+    position: absolute;
+    top: 900px;
+    left: 1200px;
+}
