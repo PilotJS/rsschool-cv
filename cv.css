@@ -1,0 +1,54 @@
+.body {
+    background-color: rgb(23, 83, 143);
+    padding: 30px;
+    position: relative;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    max-width: 100%;
+}
+.aside { 
+    background-color: rgb(26, 42, 61);
+    width: 400px;
+    height: 800px;
+    color: white;
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    position: relative;
+    max-width: 100%;
+}
+.block1 { 
+    position: absolute;
+    top: 30px;
+    left: 700px;
+    font-size: 28px;
+    max-width: 100%;
+}
+.block2 {
+    position: absolute;
+    top: 180px;
+    left: 500px;
+    max-width: 100%;
+    font: optional;
+}
+.block3 {
+    position: absolute;
+    top: 300px;
+    left: 500px;
+}
+.block4 {
+    position: absolute;
+    top: 400px;
+    left: 500px;
+}
+.block5 {
+    position: absolute;
+    top: 550px;
+    left: 500px;
+}
+.block6 {
+    position: absolute;
+    top: 650px;
+    left: 500px;
+}
+
+
